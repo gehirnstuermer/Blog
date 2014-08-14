@@ -1,0 +1,26 @@
+{
+  "locals": {
+    "url": "http://www.zerebralvortex.de",
+    "name": "Zerebralvortex",
+    "owner": "Andreas Kruck",
+    "description": "...a journey across the vast oceans of the interverse!"
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}

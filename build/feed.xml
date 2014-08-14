@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zerebralvortex</title>
+    <atom:link href="http://www.zerebralvortex.de/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://www.zerebralvortex.de</link>
+    <description>...a journey across the vast oceans of the interverse!</description>
+    <pubDate>Wed, 13  Aug 2014 23:00:00 +0200</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Straight Edge Blogging</title>
+      <link>http://www.zerebralvortex.de/articles/Straight%20Edge%20Blogging/</link>
+      <pubDate>Wed, 13  Aug 2014 23:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://www.zerebralvortex.de/articles/Straight%20Edge%20Blogging/</guid>
+      <author></author>
+      <description>&lt;p&gt;Bloggen ohne Wordpress? Ohne Datenbanken- und PHP-Geschubse? Ja bitte!
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nach vielen Jahren der Blogger-Abstinenz ein neues Blog zu starten um einfach nur dort weiterzumachen, wo ich einst aufhörte? Laaaangweilig!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;wordpress-be-gone-&quot;&gt;Wordpress be gone!&lt;/h2&gt;
+&lt;p&gt;Und hört mir auf mit Wordpress. Über die Jahre sah ich, wie sich Wordpress von einer kleinen, schlanken, schnellen Blog-Software zu einer gargantualen Bestie verwandelte, die alles und jeden zu verschlingen drohte und vor allem durch Behäbigkeit und etliche Sicherheitslücken glänzte.&lt;/p&gt;
+&lt;p&gt;Mein Freund &lt;a href=&quot;http://www.lnwdr.de&quot; title=&quot;Leons Blog&quot;&gt;Leon&lt;/a&gt; setzte mir schließlich den Floh ins Ohr, dass es auch anders ginge: &lt;strong&gt;Bloggen mittels statischer, HTML-Seiten, sicher, unkompliziert und vor allem: Schnell!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Das Blogging-Tool der Wahl heißt daher nun &lt;a href=&quot;http://wintersmith.io/&quot;&gt;Wintersmith&lt;/a&gt;. Eigentlich wollte ich &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jecyll&lt;/a&gt; einsetzen, aber das lässt sich (wie wohl Ruby-Software generell) auf Windows-Kisten &lt;a href=&quot;http://www.zotac.com/de/products/mini-pcs/zbox/intel/product/intel/detail/zbox-id83.html&quot;&gt;wie meiner Zbox&lt;/a&gt; kaum in brauchbarer Weise einsetzen. Im Grunde tun beide aber das Gleiche: &lt;/p&gt;
+&lt;p&gt;Sie geben die Blog-Artikel in Form einfacher HTML-Files aus, die nicht extra serverseitig erstellt werden müssen. Es besteht kein Bedarf mehr für SQL, PHP usw. &lt;/p&gt;
+&lt;h2 id=&quot;viel-zu-lernen-du-hast-viel-zu-tun-es-gibt-&quot;&gt;Viel zu lernen Du hast! Viel zu tun es gibt!&lt;/h2&gt;
+&lt;p&gt;Natürlich ist nicht alles so einfach, wie es zunächst erscheint. Es beginnt damit, dass ich alle Blog-Beiträge von nun an in &lt;a href=&quot;http://en.wikipedia.org/wiki/Markdown&quot;&gt;Markdown&lt;/a&gt; verfassen werde. Da die Struktur von Markdown aber logisch und leicht verständlich erscheint und Helferlein wie &lt;a href=&quot;http://markdownpad.com/&quot;&gt;MarkdownPad&lt;/a&gt; mir quasi einen WYSIWYG-Editor zur Verfügung stellen, sollte diese Hürde nicht allzu schwer zu nehmen sein. &lt;/p&gt;
+&lt;p&gt;Ganz anders verhält es sich aber z.B. mit Templates. Nach vielen Jahren der Wordpress-Bloggerei bin ich einigermaßen fit darin, Wordpress Blogs so anzupassen, dass sie mir gefallen. Diese Seite nutzt das Standard-Design von Wintersmith weil ich bisher noch nicht kapiert habe, wie ich das Aussehen meines Blogs verändern kann. Und bevor ich das nicht verstanden habe, ist z.B. an &lt;strong&gt;Google Analytics, Facebook-Integration, Social Share Buttons&lt;/strong&gt; und all den anderen neumodischen Scheiß auch noch nicht zu denken. &lt;/p&gt;
+&lt;p&gt;Außerdem muss ich noch herausfinden, ob und wie ich einige Dinge teilautomatisieren oder wenigstens komfortabler gestalten kann – den Uploadprozess für neue Beiträge beispielsweise. Jedes Mal, wenn ich einen neuen Beitrag geschrieben habe, &lt;strong&gt;ein extra FTP-Programm&lt;/strong&gt; zu starten und alles manuell an den richtigen Ort zu schieben, ist echt unbequem. Da muss noch eine Ein-Button-Lösung oder so her.  &lt;/p&gt;
+&lt;p&gt;Aber wie heißt es so schön: Man wächst ja mit den Aufgaben ;)&lt;/p&gt;
+&lt;h2 id=&quot;wie-geht-s-jetzt-weiter-&quot;&gt;Wie geht’s jetzt weiter?&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://zerebralvortex.de//articles/Straight%20Edge%20Blogging/20140809_180115_3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Um ehrlich zu sein: Ich weiß es nicht. Ich habe mir noch nicht viele konkrete Gedanken darüber gemacht, was ich hier eigentlich niederschreiben will. Ich weiß nur, dass ich all die Links und all das coole Zeug, das ich im Internet finde, nicht mehr ausschließlich Facebook in den Rachen schieben möchte – u.a. weil ich dort selbst nichts mehr wiederfinde. Ironischerweise waren Facebook und Twitter der Grund, weshalb ich einst mit dem Bloggen aufhörte. &lt;/p&gt;
+&lt;p&gt;So schließt sich der Kreis. &lt;/p&gt;
+&lt;h2 id=&quot;stay-tuned-&quot;&gt;Stay tuned.&lt;/h2&gt;
+</description>
+    </item>
+  </channel>
+</rss>
